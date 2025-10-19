@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MG\\source\\repos\\Clinical_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7733F8-B39A-4A74-B58F-0D9562BE3902}|Clinical_project.API\\Clinical_project.API.csproj|c:\\users\\mg\\source\\repos\\clinical_project\\clinical_project.api\\models\\medicationsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7733F8-B39A-4A74-B58F-0D9562BE3902}|Clinical_project.API\\Clinical_project.API.csproj|solutionrelative:clinical_project.api\\models\\medicationsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7733F8-B39A-4A74-B58F-0D9562BE3902}|Clinical_project.API\\Clinical_project.API.csproj|c:\\users\\mg\\source\\repos\\clinical_project\\clinical_project.api\\models\\schedulesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7733F8-B39A-4A74-B58F-0D9562BE3902}|Clinical_project.API\\Clinical_project.API.csproj|solutionrelative:clinical_project.api\\models\\schedulesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7733F8-B39A-4A74-B58F-0D9562BE3902}|Clinical_project.API\\Clinical_project.API.csproj|c:\\users\\mg\\source\\repos\\clinical_project\\clinical_project.api\\models\\patientrecordstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7733F8-B39A-4A74-B58F-0D9562BE3902}|Clinical_project.API\\Clinical_project.API.csproj|solutionrelative:clinical_project.api\\models\\patientrecordstmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicationsModel.cs",
+              "DocumentMoniker": "C:\\Users\\MG\\source\\repos\\Clinical_project\\Clinical_project.API\\Models\\MedicationsModel.cs",
+              "RelativeDocumentMoniker": "Clinical_project.API\\Models\\MedicationsModel.cs",
+              "ToolTip": "C:\\Users\\MG\\source\\repos\\Clinical_project\\Clinical_project.API\\Models\\MedicationsModel.cs",
+              "RelativeToolTip": "Clinical_project.API\\Models\\MedicationsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T18:04:58.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchedulesModel.cs",
+              "DocumentMoniker": "C:\\Users\\MG\\source\\repos\\Clinical_project\\Clinical_project.API\\Models\\SchedulesModel.cs",
+              "RelativeDocumentMoniker": "Clinical_project.API\\Models\\SchedulesModel.cs",
+              "ToolTip": "C:\\Users\\MG\\source\\repos\\Clinical_project\\Clinical_project.API\\Models\\SchedulesModel.cs",
+              "RelativeToolTip": "Clinical_project.API\\Models\\SchedulesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:57:00.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientRecordstModel.cs",
+              "DocumentMoniker": "C:\\Users\\MG\\source\\repos\\Clinical_project\\Clinical_project.API\\Models\\PatientRecordstModel.cs",
+              "RelativeDocumentMoniker": "Clinical_project.API\\Models\\PatientRecordstModel.cs",
+              "ToolTip": "C:\\Users\\MG\\source\\repos\\Clinical_project\\Clinical_project.API\\Models\\PatientRecordstModel.cs",
+              "RelativeToolTip": "Clinical_project.API\\Models\\PatientRecordstModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:07:30.896Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
